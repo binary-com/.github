@@ -2,7 +2,7 @@
 
 Welcome to the GitHub organization of Deriv.com's Frontend Team! We are dedicated to building high-quality, user-centric web interfaces that offer the best experience for our users. Our projects range from small libraries to large-scale web applications.
 
-Our mission is to deliver outstanding user experiences through cutting-edge front-end technologies and innovative design. We mainly use React libraries and our focus is on creating responsive, accessible, and visually stunning interfaces that meet user needs with simplicity and elegance.
+Our mission is to deliver outstanding user experiences through cutting-edge front-end technologies and innovative design. We mainly use Javascript and React libraries and our focus is on creating responsive, accessible, and visually stunning interfaces that meet user needs with simplicity and elegance.
 
 ## Core Repos
 The main repos for the Deriv front-end team as pinned, are :
