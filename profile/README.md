@@ -1,5 +1,5 @@
 # binary.com
-## Repository Summary
+## Summary
 
 Welcome to the GitHub organization of Deriv.com's Frontend Team! We are dedicated to building high-quality, user-centric web interfaces that offer the best experience for our users. Our projects range from small libraries to large-scale web applications.
 
