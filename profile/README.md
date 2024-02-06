@@ -7,4 +7,4 @@ Welcome to the GitHub organization of Deriv.com's Frontend Team! We are dedicate
 To empower all Deriv users and web developers to achieve maximum efficiency and effectiveness by enabling and building a first-class web experience.
 
 ## Core Repos
-The main repos being worked on by the front-end team are pinned in the organisation.
+The main repos for the Deriv front-end team are pinned.
